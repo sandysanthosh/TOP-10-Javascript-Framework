@@ -1,0 +1,62 @@
+java tools:
+
+git
+widfly
+jira
+eclipse
+jprofiler
+apache maven
+jmeter
+junit
+
+verison control sof:
+
+SVN
+
+project management tools:
+
+JIRA
+ALM
+IBM ratioanal
+
+PUTTY
+
+log4j
+maven
+ant -java
+sonar -java
+
+
+putty:
+->connect to linux machine
+
+jira:
+
+model:
+->waterfall model
+->Agile model
+->RAD model
+
+phases:
+->requiment gathering
+->analyssis ->archit
+->design ->document
+->construction ->developer
+->testing ->testcase preparedti
+->deployment ->Team leader
+
+
+SVN
+SOAP UI/REST CLEINT
+JIRA
+PUTTY
+LOG4J
+MAVEN
+ANT
+SONAR
+
+
+
+
+
+
